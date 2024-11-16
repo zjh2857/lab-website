@@ -17,6 +17,7 @@
   publisher: Photonics
   date: '2024-09-04'
   link: https://doi.org/gvbkm5
+  orcid: 0000-0002-8225-2951
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1103/PhysRevA.110.013503
@@ -34,6 +35,7 @@
   publisher: Physical Review A
   date: '2024-07-08'
   link: https://doi.org/gt3vjc
+  orcid: 0000-0002-8225-2951
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.optcom.2023.130197
@@ -51,5 +53,931 @@
   publisher: Optics Communications
   date: '2024-03-01'
   link: https://doi.org/g8q582
+  orcid: 0000-0002-8225-2951
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1021/jacs.3c09652
+  title: Homochiral Nanopropeller via Chiral Active Surface Growth
+  authors:
+  - Yonglong Zheng
+  - Xinyu Li
+  - Liping Huang
+  - Xiaoxin Li
+  - Shenghao Yang
+  - Qian Wang
+  - Jiaxin Du
+  - Yawen Wang
+  - Weiqiang Ding
+  - Bo Gao
+  - Hongyu Chen
+  publisher: Journal of the American Chemical Society
+  date: '2023-12-28'
+  link: https://doi.org/g8q583
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/photonics10121325
+  title: Stable Acoustic Pulling in Two-Dimensional Phononic Crystal Waveguides Based
+    on Mode Manipulation
+  authors:
+  - Yanyu Gao
+  - Yongyin Cao
+  - Tongtong Zhu
+  - Donghua Tang
+  - Bojian Shi
+  - Hang Li
+  - Wenya Gao
+  - Yanxia Zhang
+  - Qi Jia
+  - Xiaoxin Li
+  - Rui Feng
+  - Fangkui Sun
+  - Weiqiang Ding
+  publisher: Photonics
+  date: '2023-11-29'
+  link: https://doi.org/gvbkm6
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/5.0096303
+  title: Compensating the distorted OAM beams with near zero time delay
+  authors:
+  - Qi Jia
+  - Rui Feng
+  - Bojian Shi
+  - Fangkui Sun
+  - Yanxia Zhang
+  - Hang Li
+  - Xiaoxin Li
+  - Yongyin Cao
+  - Jian Wang
+  - Weiqiang Ding
+  publisher: Applied Physics Letters
+  date: '2022-07-04'
+  link: https://doi.org/g8q584
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/PRJ.441644
+  title: Multiparticle resonant optical sorting using a topological photonic structure
+  authors:
+  - Bojian Shi
+  - Yongyin Cao
+  - Tongtong Zhu
+  - Hang Li
+  - Yanxia Zhang
+  - Rui Feng
+  - Fangkui Sun
+  - Weiqiang Ding
+  publisher: Photonics Research
+  date: '2022-01-07'
+  link: https://doi.org/gnn2b3
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/2040-8986/abf0e4
+  title: Efficient particle collection using concentric optical ring array
+  authors:
+  - Lin Wang
+  - Yongyin Cao
+  - Yanxia Zhang
+  - Bojian Shi
+  - Hang Li
+  - Rui Feng
+  - Fangkui Sun
+  - Weiqiang Ding
+  publisher: Journal of Optics
+  date: '2021-04-01'
+  link: https://doi.org/gnpvbt
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/AOP.378390
+  title: Optical pulling forces and their applications
+  authors:
+  - Hang Li
+  - Yongyin Cao
+  - Lei-Ming Zhou
+  - Xiaohao Xu
+  - Tongtong Zhu
+  - Yuzhi Shi
+  - Cheng-Wei Qiu
+  - Weiqiang Ding
+  publisher: Advances in Optics and Photonics
+  date: '2020-04-03'
+  link: https://doi.org/gjkgqj
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41377-020-0293-0
+  title: Chirality-assisted lateral momentum transfer for bidirectional enantioselective
+    separation
+  authors:
+  - Yuzhi Shi
+  - Tongtong Zhu
+  - Tianhang Zhang
+  - Alfredo Mazzulla
+  - Din Ping Tsai
+  - Weiqiang Ding
+  - Ai Qun Liu
+  - Gabriella Cipparrone
+  - "Juan Jos\xE9 S\xE1enz"
+  - Cheng-Wei Qiu
+  publisher: 'Light: Science &amp; Applications'
+  date: '2020-04-16'
+  link: https://doi.org/grj46k
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/OL.389008
+  title: Subwavelength optical trapping and transporting using a Bloch mode
+  authors:
+  - Lin Wang
+  - Yongyin Cao
+  - Bojian Shi
+  - Hang Li
+  - Rui Feng
+  - Fangkui Sun
+  - Lih Y. Lin
+  - Weiqiang Ding
+  publisher: Optics Letters
+  date: '2020-03-20'
+  link: https://doi.org/gjkgp6
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/OE.26.023221
+  title: Strong optical force and its confinement applications based on heterogeneous
+    phosphorene pairs
+  authors:
+  - Jicheng Wang
+  - Chunyu Lu
+  - Zheng-Da Hu
+  - Chen Chen
+  - Liang Pan
+  - Weiqiang Ding
+  publisher: Optics Express
+  date: '2018-08-24'
+  link: https://doi.org/g8q59m
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/OE.26.022110
+  title: Computational coherent imaging by rotating a cylindrical lens
+  authors:
+  - Yong Geng
+  - Jiubin Tan
+  - Cheng Guo
+  - Cheng Shen
+  - Weiqiang Ding
+  - Shutian Liu
+  - Zhengjun Liu
+  publisher: Optics Express
+  date: '2018-08-10'
+  link: https://doi.org/g8q59n
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-018-21498-4
+  title: 'Plasmonic Spherical Heterodimers: Reversal of Optical Binding Force Based
+    on the Forced Breaking of Symmetry'
+  authors:
+  - M. R. C. Mahdy
+  - Md. Danesh
+  - Tianhang Zhang
+  - Weiqiang Ding
+  - Hamim Mahmud Rivy
+  - Ariful Bari Chowdhury
+  - M. Q. Mehmood
+  publisher: Scientific Reports
+  date: '2018-02-16'
+  link: https://doi.org/gc39tb
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-018-21235-x
+  title: Giant and tunable optical torque for micro-motors by increased force arm
+    and resonantly enhanced force
+  authors:
+  - Yong Geng
+  - Jiubin Tan
+  - Yongyin Cao
+  - Yixuan Zhao
+  - Zhengjun Liu
+  - Weiqiang Ding
+  publisher: Scientific Reports
+  date: '2018-02-12'
+  link: https://doi.org/gc26fj
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/OE.26.000951
+  title: Driving many distant atoms into high-fidelity steady state entanglement via
+    Lyapunov control
+  authors:
+  - Chuang Li
+  - Jie Song
+  - Yan Xia
+  - Weiqiang Ding
+  publisher: Optics Express
+  date: '2018-01-10'
+  link: https://doi.org/gcrn2g
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-017-07158-z
+  title: Substrate and Fano Resonance Effects on the Reversal of Optical Binding Force
+    between Plasmonic Cube Dimers
+  authors:
+  - M. R. C. Mahdy
+  - Tianhang Zhang
+  - Md. Danesh
+  - Weiqiang Ding
+  publisher: Scientific Reports
+  date: '2017-07-31'
+  link: https://doi.org/gc5dsd
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/lsa.2017.32
+  title: Three-dimensional super-resolution longitudinal magnetization spot arrays
+  authors:
+  - Zhong-Quan Nie
+  - Han Lin
+  - Xiao-Fei Liu
+  - Ai-Ping Zhai
+  - Yan-Ting Tian
+  - Wen-Jie Wang
+  - Dong-Yu Li
+  - Wei-Qiang Ding
+  - Xue-Ru Zhang
+  - Ying-Lin Song
+  - Bao-Hua Jia
+  publisher: 'Light: Science &amp; Applications'
+  date: '2017-03-01'
+  link: https://doi.org/grqk9v
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/andp.201600213
+  title: Lorentz force and the optical pulling of multiple rayleigh particles outside
+    the dielectric cylindrical waveguides
+  authors:
+  - M.R.C. Mahdy
+  - M. Q. Mehmood
+  - Weiqiang Ding
+  - Tianhang Zhang
+  - Zhi Ning Chen
+  publisher: Annalen der Physik
+  date: '2016-11-07'
+  link: https://doi.org/f3sj36
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.4979589
+  title: Magneto-optical manifestation of bilayer silicene
+  authors:
+  - Haixia Da
+  - Weiqiang Ding
+  - Xiaohong Yan
+  publisher: Applied Physics Letters
+  date: '2017-04-03'
+  link: https://doi.org/g8q59p
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-017-00735-2
+  title: Pulling cylindrical particles using a soft-nonparaxial tractor beam
+  authors:
+  - Andrey Novitsky
+  - Weiqiang Ding
+  - Maoyan Wang
+  - Dongliang Gao
+  - Andrei V. Lavrinenko
+  - Cheng-Wei Qiu
+  publisher: Scientific Reports
+  date: '2017-04-05'
+  link: https://doi.org/g8q59q
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c5nr08804f
+  title: Fano resonant Ge<sub>2</sub>Sb<sub>2</sub>Te<sub>5</sub>nanoparticles realize
+    switchable lateral optical force
+  authors:
+  - Tun Cao
+  - Libang Mao
+  - Dongliang Gao
+  - Weiqiang Ding
+  - Cheng-Wei Qiu
+  publisher: Nanoscale
+  date: '2016-01-01'
+  link: https://doi.org/f8v3z5
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/OE.24.015863
+  title: Flexible optical manipulation of ring resonator by frequency detuning and
+    double-port excitation
+  authors:
+  - Yong Geng
+  - Tongtong Zhu
+  - Haiyi Lv
+  - Yongyin Cao
+  - Fangkui Sun
+  - Weiqiang Ding
+  publisher: Optics Express
+  date: '2016-07-05'
+  link: https://doi.org/g8q59r
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/OE.24.018436
+  title: Optical pulling using evanescent mode in sub-wavelength channels
+  authors:
+  - Tongtong Zhu
+  - M. R. C. Mahdy
+  - Yongyin Cao
+  - Haiyi Lv
+  - Fangkui Sun
+  - Zehui Jiang
+  - Weiqiang Ding
+  publisher: Optics Express
+  date: '2016-08-02'
+  link: https://doi.org/gt27f7
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/OE.24.003377
+  title: Spin-controlled orbital motion in tightly focused high-order Laguerre-Gaussian
+    beams
+  authors:
+  - Yongyin Cao
+  - Tongtong Zhu
+  - Haiyi Lv
+  - Weiqiang Ding
+  publisher: Optics Express
+  date: '2016-02-09'
+  link: https://doi.org/gstx57
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/OE.23.021296
+  title: Achievement and steering of light-induced sub-wavelength longitudinal magnetization
+    chain
+  authors:
+  - Zhongquan Nie
+  - Weiqiang Ding
+  - Guang Shi
+  - Dongyu Li
+  - Xueru Zhang
+  - Yuxiao Wang
+  - Yinglin Song
+  publisher: Optics Express
+  date: '2015-08-05'
+  link: https://doi.org/gksctv
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/lsa.2015.51
+  title: Photon momentum transfer in inhomogeneous dielectric mixtures and induced
+    tractor beams
+  authors:
+  - Cheng-Wei Qiu
+  - Weiqiang Ding
+  - M.R.C. Mahdy
+  - Dongliang Gao
+  - Tianhang Zhang
+  - Fook Chiong Cheong
+  - Aristide Dogariu
+  - Zheng Wang
+  - Chwee Teck Lim
+  publisher: 'Light: Science &amp; Applications'
+  date: '2015-04-24'
+  link: https://doi.org/g8q59s
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/OE.23.000690
+  title: "Spherical and sub-wavelength longitudinal magnetization generated by 4\u03C0\
+    \ tightly focusing radially polarized vortex beams"
+  authors:
+  - Zhongquan Nie
+  - Weiqiang Ding
+  - Dongyu Li
+  - Xueru Zhang
+  - Yuxiao Wang
+  - Yinglin Song
+  publisher: Optics Express
+  date: '2015-01-12'
+  link: https://doi.org/gtg7tt
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/OE.23.021023
+  title: Wide-angle and polarization independent perfect absorber based on one-dimensional
+    fabrication-tolerant stacked array
+  authors:
+  - Rui Feng
+  - Jun Qiu
+  - Yongyin Cao
+  - Linhua Liu
+  - Weiqiang Ding
+  - Lixue Chen
+  publisher: Optics Express
+  date: '2015-08-04'
+  link: https://doi.org/gqfh3s
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/OE.22.00A335
+  title: Dual-band infrared perfect absorber based on asymmetric T-shaped plasmonic
+    array
+  authors:
+  - Rui Feng
+  - Weiqiang Ding
+  - Linhua Liu
+  - Lixue Chen
+  - Jun Qiu
+  - Guoqiang Chen
+  publisher: Optics Express
+  date: '2014-02-13'
+  link: https://doi.org/g8q59t
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1515/nanoph-2013-0055
+  title: Engineering light-matter interaction for emerging optical manipulation applications
+  authors:
+  - Cheng-Wei Qiu
+  - Darwin Palima
+  - Andrey Novitsky
+  - Dongliang Gao
+  - Weiqiang Ding
+  - Sergei V. Zhukovsky
+  - Jesper Gluckstad
+  publisher: Nanophotonics
+  date: '2014-06-01'
+  link: https://doi.org/gfrmwz
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/OE.22.018113
+  title: Equilibrium orientations of oblate spheroidal particles in single tightly
+    focused Gaussian beams
+  authors:
+  - Yongyin Cao
+  - Wenhe Song
+  - Weiqiang Ding
+  - Fangkui Sun
+  - TongTong Zhu
+  publisher: Optics Express
+  date: '2014-07-18'
+  link: https://doi.org/gpp6j9
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/0256-307X/31/5/057301
+  title: Fano Resonance by Symmetry Breaking Stub in a Metal-Dielectric-Metal Waveguide
+  authors:
+  - Dong-Hua Tang
+  - Wei-Qiang Ding
+  publisher: Chinese Physics Letters
+  date: '2014-05-01'
+  link: https://doi.org/g8q59v
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.4901073
+  title: Omnidirectional and polarization insensitive nearly perfect absorber in one
+    dimensional meta-structure
+  authors:
+  - Rui Feng
+  - Jun Qiu
+  - Yongyin Cao
+  - Linhua Liu
+  - Weiqiang Ding
+  - Lixue Chen
+  publisher: Applied Physics Letters
+  date: '2014-11-03'
+  link: https://doi.org/g8q59w
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.optcom.2013.09.002
+  title: Optical collection of multiple spheres in single tightly focused beams
+  authors:
+  - Yongyin Cao
+  - Lixue Chen
+  - Weiqiang Ding
+  - Fangkui Sun
+  - Tongtong Zhu
+  publisher: Optics Communications
+  date: '2013-01-01'
+  link: https://doi.org/g8q59x
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/OE.22.0A1713
+  title: Parallel LC circuit model for multi-band absorption and preliminary design
+    of radiative cooling
+  authors:
+  - Rui Feng
+  - Jun Qiu
+  - Linhua Liu
+  - Weiqiang Ding
+  - Lixue Chen
+  publisher: Optics Express
+  date: '2014-10-23'
+  link: https://doi.org/g8q59z
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/LPT.2014.2310251
+  title: Polarization Rotators in Add-Drop Filter Systems With Double-Ring Resonators
+  authors:
+  - ' Guoqiang Chen'
+  - ' Lixue Chen'
+  - ' Weiqiang Ding'
+  - ' Fangkui Sun'
+  - ' Rui Feng'
+  publisher: IEEE Photonics Technology Letters
+  date: '2014-05-01'
+  link: https://doi.org/g8q592
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7566/JPSJ.83.124402
+  title: Third-Order Self-Imaging with Thermal Light
+  authors:
+  - Feng Wen
+  - Xun Zhang
+  - Chenzhi Yuan
+  - Xin Yao
+  - Yanpeng Zhang
+  - Weiqiang Ding
+  publisher: Journal of the Physical Society of Japan
+  date: '2014-12-15'
+  link: https://doi.org/f62xnr
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/lpor.201400006
+  title: Three-dimensional visible-light capsule enclosing perfect supersized darkness
+    via antiresolution
+  authors:
+  - Chao Wan
+  - Kun Huang
+  - Tiancheng Han
+  - Eunice S. P. Leong
+  - Weiqiang Ding
+  - Lei Zhang
+  - Tat-Soon Yeo
+  - Xia Yu
+  - Jinghua Teng
+  - Dang Yuan Lei
+  - Stefan A. Maier
+  - Boris Luk'yanchuk
+  - Shuang Zhang
+  - Cheng-Wei Qiu
+  publisher: Laser &amp; Photonics Reviews
+  date: '2014-06-02'
+  link: https://doi.org/f2sp6r
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000355262505047
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000355262505047
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/NPHOTON.2013.192
+  title: Linear momentum increase and negative optical forces at dielectric interface
+  authors:
+  - Veerachart Kajorndejnukul
+  - Weiqiang Ding
+  - Sergey Sukhov
+  - Cheng-Wei Qiu
+  - Aristide Dogariu
+  publisher: Nature Photonics
+  date: '2013-08-11'
+  link: https://doi.org/f5bvbt
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/OE.21.014888
+  title: Ultra-short Silicon-On-Insulator (SOI) polarization rotator between a slot
+    and a strip waveguide based on a nonlinear raised cosine flat-tip taper
+  authors:
+  - Guoqiang Chen
+  - Lixue Chen
+  - Weiqiang Ding
+  - Fangkui Sun
+  - Rui Feng
+  publisher: Optics Express
+  date: '2013-06-14'
+  link: https://doi.org/gnb8gx
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/OL.38.001984
+  title: Ultrashort slot polarization rotator with double paralleled nonlinear geometry
+    slot crossings
+  authors:
+  - Guoqiang Chen
+  - Lixue Chen
+  - Weiqiang Ding
+  - Fangkui Sun
+  - Rui Feng
+  publisher: Optics Letters
+  date: '2013-05-31'
+  link: https://doi.org/g8q593
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.905783
+  title: 'Asymmetrically coupled bus with tunable ring resonators for multiple functionalities:
+    Fano resonance, asymmetrical transmission, and wavelength shifting'
+  authors:
+  - Weiqiang Ding
+  - Chengwei Qiu
+  publisher: SPIE Proceedings
+  date: '2012-02-09'
+  link: https://doi.org/fx7fkk
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevA.85.025806
+  title: Ultrahigh-contrast-ratio silicon Fano diode
+  authors:
+  - W. Ding
+  - B. Luk'yanchuk
+  - C.-W. Qiu
+  publisher: Physical Review A
+  date: '2012-02-27'
+  link: https://doi.org/g8q594
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/OE.19.004756
+  title: Efficient transmission of crossing dielectric slot waveguides
+  authors:
+  - Runzhou Su
+  - Donghua Tang
+  - Weiqiang Ding
+  - Lixue Chen
+  - Zhongxiang Zhou
+  publisher: Optics Express
+  date: '2011-02-25'
+  link: https://doi.org/dk77j6
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.optcom.2011.05.023
+  title: Inhibition of light tunneling in chirped and longitudinally modulated semi-infinite
+    waveguide arrays
+  authors:
+  - H.C. Ren
+  - L.X. Chen
+  - W.Q. Ding
+  publisher: Optics Communications
+  date: '2011-09-01'
+  link: https://doi.org/cshgb8
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.optcom.2011.01.050
+  title: Nonlinear beam interactions in semi-infinite waveguide arrays
+  authors:
+  - H.C. Ren
+  - L.X. Chen
+  - W.Q. Ding
+  publisher: Optics Communications
+  date: '2011-05-01'
+  link: https://doi.org/bqj5zk
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/S0217979211100758
+  title: SIZE DEPENDENCE OF INTERBAND TRANSITIONS IN<font>Al</font>NANOPARTICLE
+  authors:
+  - YAJING PENG
+  - XUEFEI YIN
+  - WEIQIANG DING
+  publisher: International Journal of Modern Physics B
+  date: '2011-10-10'
+  link: https://doi.org/dx7k6f
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/OE.18.013640
+  title: Analysis on volume grating induced by femtosecond laser pulses
+  authors:
+  - Keya Zhou
+  - Zhongyi Guo
+  - Weiqiang Ding
+  - Shutian Liu
+  publisher: Optics Express
+  date: '2010-06-10'
+  link: https://doi.org/dg3tqd
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.3298367
+  title: Arbitrary waveguide bends using isotropic and homogeneous metamaterial
+  authors:
+  - Weiqiang Ding
+  - Donghua Tang
+  - Yan Liu
+  - Lixue Chen
+  - Xiudong Sun
+  publisher: Applied Physics Letters
+  date: '2010-01-25'
+  link: https://doi.org/d66mzt
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.3364145
+  title: Compact and low crosstalk waveguide crossing using impedance matched metamaterial
+  authors:
+  - Weiqiang Ding
+  - Donghua Tang
+  - Yan Liu
+  - Lixue Chen
+  - Xiudong Sun
+  publisher: Applied Physics Letters
+  date: '2010-03-15'
+  link: https://doi.org/fhfztt
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.optcom.2009.08.046
+  title: Beam interaction in one-dimensional inhomogeneous Kerr nonlinear arrays
+  authors:
+  - H.C. Ren
+  - L.X. Chen
+  - W.Q. Ding
+  publisher: Optics Communications
+  date: '2009-12-01'
+  link: https://doi.org/bmgrm9
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000266074700037
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000266074700037
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/S0218863509004841
+  title: SELF-ASSEMBLED VOLUME GRATING IN SILICA GLASS INDUCED BY TIGHTLY FOCUSED
+    FEMTOSECOND LASER PULSE
+  authors:
+  - ZHONGYI GUO
+  - WEIQIANG DING
+  - SHILIANG QU
+  - JINGMIN DAI
+  - SHUTIAN LIU
+  publisher: Journal of Nonlinear Optical Physics &amp; Materials
+  date: '2009-12-01'
+  link: https://doi.org/bnhmrv
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000257306000013
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000257306000013
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/1.2747227
+  title: High efficiency second harmonic generation in one-dimensional photonic crystal
+    coupled cavity structures
+  authors:
+  - Li-Xue Chen
+  publisher: Optical Engineering
+  date: '2007-06-01'
+  link: https://doi.org/10.1117/1.2747227
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000243377900035
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000243377900035
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000236935000024
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000236935000024
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.2354428
+  title: Efficient beaming from photonic crystal waveguides via self-collimation effect
+  authors:
+  - Donghua Tang
+  - Lixue Chen
+  - Weiqiang Ding
+  publisher: Applied Physics Letters
+  date: '2006-09-25'
+  link: https://doi.org/dbgtms
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.optcom.2006.04.036
+  title: Supermodes of photonic crystal CCWs and multimode bistable switchings with
+    uniform thresholds
+  authors:
+  - Weiqiang Ding
+  - Lixue Chen
+  - Donghua Tang
+  - Weihui Li
+  - Shutian Liu
+  publisher: Optics Communications
+  date: '2006-09-01'
+  link: https://doi.org/dzmt9j
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.optcom.2004.10.043
+  title: Broadband optical bistable switching in a one-dimensional nonlinear coupled
+    cavity structure
+  authors:
+  - Weiqiang Ding
+  - Lixue Chen
+  - Shutian Liu
+  publisher: Optics Communications
+  date: '2005-02-01'
+  link: https://doi.org/fkwm2j
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000232612700034
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000232612700034
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.optcom.2004.12.019
+  title: Localization properties and the effects on multi-mode switching in discrete
+    mode CCWs
+  authors:
+  - Weiqiang Ding
+  - Lixue Chen
+  - Shutian Liu
+  publisher: Optics Communications
+  date: '2005-04-01'
+  link: https://doi.org/bvc6bw
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000220810800021
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000220810800021
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.optcom.2004.08.041
+  title: Finite size effects on one dimensional coupled cavity optical waveguides
+  authors:
+  - Wei-Qiang Ding
+  - Li-Xue Chen
+  - Shu-Tian Liu
+  publisher: Optics Communications
+  date: '2004-12-01'
+  link: https://doi.org/cb7zzg
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000223162500035
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000223162500035
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
