@@ -867,11 +867,7 @@
   - Li-Xue Chen
   publisher: Optical Engineering
   date: '2007-06-01'
-<<<<<<< HEAD
   link: https://doi.org/10.1117/1.2747227
-=======
-  link: https://doi.org/chsspt
->>>>>>> 0fe3d494226d79e05ebd35d63df36164a9394e74
   orcid: 0000-0002-8225-2951
   plugin: orcid.py
   file: orcid.yaml
