@@ -7,16 +7,21 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+You can also find me on [Researchgate](https://www.researchgate.net/profile/Weiqiang_Ding), [Googlescholar](https://xueshu.glgoo.net/citations?user=7d4uiwMAAAAJ&hl=zh-CN&oi=ao), or [ORCID](http://orcid.org/0000-0002-8225-2951)
+
+
 
 {% include section.html %}
 
-## Highlighted
+<!-- ## Highlighted -->
+
+{% comment %}
 
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
 {% include section.html %}
+
+{% endcomment %}
 
 ## All
 
