@@ -1,5 +1,28 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1103/PhysRevLett.133.233802
+  title: Observation of Intricate Chiral Optical Force in a Spin-Curl Light Field
+  authors:
+  - Chengxing Lai
+  - Yuzhi Shi
+  - Haiyang Huang
+  - Weicheng Yi
+  - Alfredo Mazzulla
+  - Gabriella Cipparrone
+  - Yan Zu
+  - Weiqiang Ding
+  - Hang Li
+  - Qinghua Song
+  - Pin Chieh Wu
+  - Zhanshan Wang
+  - Cheng-Wei Qiu
+  - Xinbin Cheng
+  publisher: Physical Review Letters
+  date: '2024-12-04'
+  link: https://doi.org/g8t4j2
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/photonics11090838
   title: Ultra-Compact Reflective Waveguide Mode Converter Based on Slanted-Surface
     and Subwavelength Metamaterials
