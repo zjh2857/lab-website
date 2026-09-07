@@ -1,5 +1,178 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1117/1.APN.5.6.066001
+  title: Snapshot thermal spectral imaging based on hybrid metasurfaces with high
+    efficiency and high spectral resolution
+  authors:
+  - Wenya Gao
+  - Yanyu Gao
+  - Yanxia Zhang
+  - Qi Jia
+  - Rui Feng
+  - Yongyin Cao
+  - Fangkui Sun
+  - Bojian Shi
+  - Weiqiang Ding
+  publisher: Advanced Photonics Nexus
+  date: '2026-08-05'
+  link: https://doi.org/hcd7w4
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-10187577/v1
+  title: Partially coherent high-order optical neural networks via pseudo-nonlinear
+    encoding
+  authors:
+  - Weiqiang Ding
+  - Bojie DONG
+  - Xiaoxin Li
+  - Zixuan Wang
+  - Qi Jia
+  - Bojian Shi
+  - Shiyong Ren
+  - Hanyi Zhang
+  - Zhengjun Wang
+  - Rui Feng
+  - Fangkui Sun
+  - Yongyin Cao
+  - Liangcai Cao
+  publisher: Springer Science and Business Media LLC
+  date: '2026-08-03'
+  link: https://doi.org/hcd7w5
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/6kmw-15v4
+  title: Broadband topological slow acoustic waves via multiwinding modulation in
+    the Brillouin zone
+  authors:
+  - Yanyu Gao
+  - Wenya Gao
+  - Yanxia Zhang
+  - Xiaoxin Li
+  - Qi Jia
+  - Bojian Shi
+  - Rui Feng
+  - Yongyin Cao
+  - Fangkui Sun
+  - Weiqiang Ding
+  publisher: Physical Review B
+  date: '2026-04-14'
+  link: https://doi.org/hbxpwn
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/lpor.202501168
+  title: Optical Computational Imaging Through Unknown Random Diffusers in Visible
+    Spectrum
+  authors:
+  - Lin Huang
+  - Yongyin Cao
+  - Shiyong Ren
+  - Qi Jia
+  - Bojian Shi
+  - Rui Feng
+  - Fangkui Sun
+  - Jian Wang
+  - Yongkang Dong
+  - Weiqiang Ding
+  publisher: Laser &amp; Photonics Reviews
+  date: '2025-09-25'
+  link: https://doi.org/g948wz
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-7758851/v1
+  title: Ultra-compact and efficient on-chip diffraction neural network based on dual
+    optimization of physical constraints
+  authors:
+  - Weiqiang Ding
+  - Yuhan Jiao
+  - Yongyin Cao
+  - Bojian Shi
+  - Fangkui Sun
+  - Qi Jia
+  - Rui Feng
+  publisher: Springer Science and Business Media LLC
+  date: '2025-10-21'
+  link: https://doi.org/g97488
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/s25175367
+  title: "Generalized Spin\u2013Curl Force Beyond the Stress Tensor"
+  authors:
+  - Tongtong Zhu
+  - Guodong Zhu
+  - Chuang Li
+  - Bojian Shi
+  - Rui Feng
+  - Yongyin Cao
+  - Yurui Fang
+  - Weiqiang Ding
+  publisher: Sensors
+  date: '2025-08-30'
+  link: https://doi.org/g92twh
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/OE.564636
+  title: In-plane waveguide optical orbital angular momentum mode generators using
+    subwavelength metamaterials
+  authors:
+  - Yanxia Zhang
+  - Bojian Shi
+  - Xiaoxin Li
+  - Yanyu Gao
+  - Wenya Gao
+  - Qi Jia
+  - Fangkui Sun
+  - Yongyin Cao
+  - Rui Feng
+  - Weiqiang Ding
+  publisher: Optics Express
+  date: '2025-07-18'
+  link: https://doi.org/g9trxd
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/LPT.2025.3549832
+  title: High Speed Single Pixel Imaging Measurement Value Classification Through
+    Multi-Layer Perceptron
+  authors:
+  - Ziyang Chen
+  - Ping Lu
+  - Weiqiang Ding
+  - Hongyan Shi
+  publisher: IEEE Photonics Technology Letters
+  date: '2025-04-15'
+  link: https://doi.org/g89982
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevLett.133.233802
+  title: Observation of Intricate Chiral Optical Force in a Spin-Curl Light Field
+  authors:
+  - Chengxing Lai
+  - Yuzhi Shi
+  - Haiyang Huang
+  - Weicheng Yi
+  - Alfredo Mazzulla
+  - Gabriella Cipparrone
+  - Yan Zu
+  - Weiqiang Ding
+  - Hang Li
+  - Qinghua Song
+  - Pin Chieh Wu
+  - Zhanshan Wang
+  - Cheng-Wei Qiu
+  - Xinbin Cheng
+  publisher: Physical Review Letters
+  date: '2024-12-04'
+  link: https://doi.org/g8t4j2
+  orcid: 0000-0002-8225-2951
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/photonics11090838
   title: Ultra-Compact Reflective Waveguide Mode Converter Based on Slanted-Surface
     and Subwavelength Metamaterials
@@ -362,8 +535,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1039/c5nr08804f
-  title: Fano resonant Ge<sub>2</sub>Sb<sub>2</sub>Te<sub>5</sub>nanoparticles realize
-    switchable lateral optical force
+  title: "Fano resonant Ge\n                    <sub>2</sub>\n                   \
+    \ Sb\n                    <sub>2</sub>\n                    Te\n             \
+    \       <sub>5</sub>\n                    nanoparticles realize switchable lateral\
+    \ optical force"
   authors:
   - Tun Cao
   - Libang Mao
@@ -507,9 +682,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1515/nanoph-2013-0055
-  title: Engineering light-matter interaction for emerging optical manipulation applications
+  title: "Engineering light\u2010matter interaction for emerging optical manipulation\
+    \ applications"
   authors:
-  - Cheng-Wei Qiu
+  - "Cheng\u2010Wei Qiu"
   - Darwin Palima
   - Andrey Novitsky
   - Dongliang Gao
@@ -517,7 +693,7 @@
   - Sergei V. Zhukovsky
   - Jesper Gluckstad
   publisher: Nanophotonics
-  date: '2014-06-01'
+  date: '2014-04-11'
   link: https://doi.org/gfrmwz
   orcid: 0000-0002-8225-2951
   plugin: orcid.py
@@ -867,7 +1043,7 @@
   - Li-Xue Chen
   publisher: Optical Engineering
   date: '2007-06-01'
-  link: https://doi.org/10.1117/1.2747227
+  link: https://doi.org/chsspt
   orcid: 0000-0002-8225-2951
   plugin: orcid.py
   file: orcid.yaml
